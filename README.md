@@ -1,8 +1,8 @@
-terraform init
-terraform plan
-terraform apply
+terraform init <br>
+terraform plan <br>
+terraform apply <br>
 
-kubectl get deployment -n sb-graphql-h2-tf
-kubectl get pods -n sb-graphql-h2-tf
+kubectl get deployment -n sb-graphql-h2-tf <br>
+kubectl get pods -n sb-graphql-h2-tf <br>
 
-terraform destroy
+terraform destroy <br>
